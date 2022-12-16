@@ -1,6 +1,6 @@
-Hello, my name is @Eggflaw
-Programming languages I know: Lua, Javascript, Rust
-Interested at: Linux
+- Hello, my name is @Eggflaw
+- Programming languages I know: Lua, Javascript, Rust
+- Interested at: Linux
 
 <!---
 EggFlaw/EggFlaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
